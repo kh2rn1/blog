@@ -1,0 +1,62 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+# TODO: Come up with a good name
+
+> *I strive to become a rational actor in the face of uncertainty.*
+>
+> \- Myself
+
+In my head that sounded like a suffficiently pretentious introduction. 
+
+
+
+
+This blog is mostly a collection of my attempts to understand (among other things):
+
+- Probability
+- Statistics
+- Game Theory
+
+If you want a deeper explanation you should read about [why this blog exists](posts/why_does_this_blog_exist.md).
+
+- - -
+
+## Previous Posts
+
+<div class="grid cards" markdown>
+
+-   ### [Made to measure](posts/testing-posts.md)
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    `1999-01-01`
+
+
+-   ### [Why does this blog exist?](posts/why_does_this_blog_exist.md)
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    `1999-01-01`
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
